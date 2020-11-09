@@ -1,2 +1,2 @@
 # CST
-> Reference Python tutorials from Corey Schafer
+> References and notes from Corey Schafer's python tutorials
